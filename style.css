@@ -160,6 +160,7 @@ button span{
     display: flex;
     margin-top: 7%;
     margin-right: 28%;
+    color: aqua;
 }
 .email{
     display: flex;
